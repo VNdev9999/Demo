@@ -42,6 +42,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 
+    private void doIncreaseNumber() {
+    }
+
 
     private class MyAsync extends AsyncTask<Void , Integer , Void>{
 
